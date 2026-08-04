@@ -1,0 +1,14 @@
+ main CI workflow · 18402985945
+Triggered via push about 1 minute ago
+
+JOBS
+✓ build in 20s (ID 5243635755)
+  ✓ Set up job
+  ✓ Initialize containers
+  ✓ Checkout
+  ✓ Install dependencies
+  ✓ Lint with flake8
+  ✓ Run unit tests with nose
+  ✓ Post Checkout
+  ✓ Stop containers
+  ✓ Complete job
